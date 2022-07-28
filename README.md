@@ -42,5 +42,3 @@ git merge upstream/main -m "meaningful message about what you're updating"
 
 ```
 
-Am  doing this??
-
